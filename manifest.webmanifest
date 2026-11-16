@@ -1,0 +1,32 @@
+{
+  "name": "Simulador de Enfermería Chile",
+  "short_name": "Sim Enfermería",
+  "description": "Casos clínicos, procedimientos, fármacos y turnos para practicar enfermería.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f9",
+  "theme_color": "#0b7285",
+  "lang": "es-CL",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

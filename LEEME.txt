@@ -1,0 +1,17 @@
+PWA — Simulador de Enfermería Chile
+====================================
+Contenido: index.html, manifest.webmanifest, sw.js y la carpeta icons.
+
+CÓMO PUBLICARLA (necesita HTTPS)
+- Netlify: entra a app.netlify.com/drop y arrastra esta carpeta completa. Te da un enlace https.
+- GitHub Pages: sube estos archivos a un repositorio y activa Pages (Settings > Pages).
+- Cualquier hosting estático con HTTPS sirve.
+
+CÓMO INSTALARLA EN EL CELULAR
+- Android (Chrome): abre el enlace > menú ⋮ > "Instalar app" o "Agregar a la pantalla de inicio".
+- iPhone (Safari): botón Compartir > "Agregar a inicio".
+Después funciona sin conexión.
+
+PARA ACTUALIZAR: reemplaza index.html y cambia VERSION en sw.js (por ejemplo sim-enfermeria-v2).
+
+Nota: el progreso (✔, puntajes) se guarda en el navegador de cada dispositivo.
